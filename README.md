@@ -1,7 +1,8 @@
 <h1 align="center">
   <a href="https://github.com/shelegdmitriy/test-boilerplate-template-rs">
     <!-- Please provide path to your logo here -->
-    <img src="docs/images/pagoda_logo.svg" alt="Logo" width="100" height="100">
+    <img src="docs/images/pagoda_logo_light.svg#gh-light-mode-only" alt="Logo" width="100" height="100">
+    <img src="docs/images/pagoda_logo_dark.svg#gh-dark-mode-only" alt="Logo" width="100" height="100">
   </a>
 </h1>
 
