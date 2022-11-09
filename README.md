@@ -1,5 +1,4 @@
 <h1 align="center">
-  ![pagoda-logo](https://raw.githubusercontent.com/shelegdmitriy/test-boilerplate-template-rs/main/docs/images/pagoda_logo_dark.png#gh-dark-mode-only)
   <a href="https://github.com/shelegdmitriy/test-boilerplate-template-rs">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shelegdmitriy/test-boilerplate-template-rs/main/docs/images/pagoda_logo_dark.png">
